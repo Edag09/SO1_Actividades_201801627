@@ -65,7 +65,7 @@ Ejemplos: Linux con el kernel estándar, versiones antiguas de Windows.
 
 ### Microkernel
 
-<img src="https://www.researchgate.net/publication/304348982/figure/fig2/AS:376314398822401@1466731752472/Figura-3-Estructura-de-un-sistema-basado-en-microkernel.png" alt="Microkernel" width="400" height="250">
+<img src="https://lh5.googleusercontent.com/-EGgiA8LzqQA/TWlkQnZN4_I/AAAAAAAAAEc/0GrdhqrxHUk/s1600/microkernel.bmp" alt="Microkernel" width="400" height="250">
 
 <br>
 
@@ -82,7 +82,7 @@ Ejemplos: GNU Hurd, Minix.
 ### Kernel Híbrido
 
 
-<img src="https://www.researchgate.net/publication/304348886/figure/fig1/AS:376315095076867@1466731918678/Figura-14-Estructura-de-un-sistema-basado-en-kernel-hibrido-El-desarrollo-de-los.png" alt="Kernel Híbrido" width="300" height="250">
+<img src="https://universodigital.org/wp-content/uploads/Kernel-hibrido.png" alt="Kernel Híbrido" width="300" height="250">
 
 <br>
 
